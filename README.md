@@ -2,7 +2,7 @@
 
 Aldi Hermansyah - 312310200 - Ti.23.A2
 
-Project Link: [Praktikum 6](https://miya3333.github.io/Lab5Web/)
+Project Link: [Praktikum 6](https://miya3333.github.io/lab6_css_framework/)
 
 ### Hasil:
 `Hasil code` <br>
