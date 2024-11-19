@@ -2,7 +2,7 @@
 
 Aldi Hermansyah - 312310200 - Ti.23.A2
 
-Project Link: [CSS Framework](https://miya3333.github.io/Lab5Web/)
+Project Link: [Praktikum 6](https://miya3333.github.io/Lab5Web/)
 
 ### Soal & Jawaban:
 1. Buat script untuk melakukan validasi pada isian form. <br>
